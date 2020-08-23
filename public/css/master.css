@@ -1,0 +1,16 @@
+
+body {
+  background-image: -webkit-linear-gradient(79deg, #8cba51 50%, #deff8b 50%);
+}
+header{
+  background-color: #c9485b
+}
+.search
+{
+  text-align: center;
+  margin-top: 230px;
+}
+.mastfoot{
+  text-align: center;
+  margin-top: 350px;
+}

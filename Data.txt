@@ -1,0 +1,100 @@
+1	As a kid, did you ever do something wrong but manage to pin it on your siblings?
+2	Do you have any crazy roommate stories?
+3	Everyone has those recurring bad dreams … what is your nightmare?
+4	Have you ever gotten super lost? What happened?
+5	Have you ever lied about an interest/talent to impress someone? What happened next?
+6	If all your clothes had to be one color forever, what color would you pick?
+7	If you could be one superhero, which superhero would you be?
+8	If you could create one holiday, what would you create?
+9	If you could eliminate one food so that no one would eat it ever again, what would you pick to destroy?
+10	If you could have any celebrity be your best friend, which celebrity would you pick?
+11	If you could live any historical figure’s life, which one would you choose?
+12	If you could only eat at one restaurant forever, what restaurant would it be?
+13	If you could only listen to one song for the rest of your life, which song would you pick?
+14	If you could only wear one type of shoes for the rest of your life, what type of shoes would it be?
+15	If you could pick a TV show to be your life, what show would it be?
+16	If you could pick one job to do forever (and be guaranteed all the money you need), what job would it be?
+17	If you could pick three famous people to be a part of your entourage, who would you pick?
+18	If you could pick your nickname, what would people call you?
+19	If you could switch places with anyone in your family for a day, who would it be?
+20	If you could turn the ocean into a liquid other than water, which one would you pick?
+21	If you created your own country, what would it be called?
+22	If you had a boat, what would you name it?
+23	If you had lots of money, what unnecessary thing would you splurge on (i.e. a private plane, concert tickets)?
+24	If you had to be an animal, which animal would you be?
+25	If you had to be Siamese twins with one person, which person would you pick to be stuck with?
+26	If you had to endorse a brand, which brand would it be?
+27	If you had to use a fake name, what fake name would you make up?
+28	If you had to wear a hat every day for the rest of your life, what type of hat would it be?
+29	If you were a type of jeans, what type would you be?
+30	If you were a vegetable, what would you be?
+31	If you were an Olympic athlete, what sport would you compete in?
+32	If you were famous, what would you be famous for?
+33	If you were the president, what would you change about the decorations in the White House?
+34	If you were trying out for a singing reality show, what song would you sing?
+35	If you wrote a book, what would it be called?
+36	If your best friend picked a tattoo for you to get, what would he/she pick?
+37	Last and possibly least … The corniest icebreaker question ever: How much does a polar bear weigh? (Just enough to break the ice!)
+38	What afterschool activity did you quit as a kid, and why?
+39	What are two truths and a lie about you?
+40	What are your favorite songs from your teenage years that you still rock out to when nobody else is listening?
+41	What band would you be embarrassed to admit you listen to?
+42	What blog or website are you embarrassed to admit you love?
+43	What commercial jingle gets stuck in your head all the time?
+44	What completely safe animal are you inexplicably afraid of?
+45	What dance move are you secretly awesome at?
+46	What did you get into the most trouble for with your parents as a kid?
+47	What did you name your first car?
+48	What Disney/cartoon character were you inexplicably afraid of as a kid?
+49	What do you never leave the house without (can’t be your phone, keys or wallet)?
+50	What do you pretend to hate but actually love?
+51	What food could you not live without?
+52	What game show would you be super awesome at?
+53	What interesting skill do you want to learn?
+54	What invention do you think will be popular in 20 years?
+55	What is the weirdest thing you’ve ever eaten for breakfast that is not a breakfast food?
+56	What is your favorite smell and why?
+57	What is your real favorite movie, and what movie do you pretend is your favorite to sound cultured?
+58	What part of elementary school do you wish you could incorporate into your adult life? (i.e. naptime)
+59	What show on Netflix did you binge watch embarrassingly fast?
+60	What sport did you try as a child and fail at?
+61	What totally rad expression did you overuse in high school?
+62	What was the first concert you ever went to?
+63	What was your favorite Halloween costume you wore as a child?
+64	What was your favorite item of clothing as a kid?
+65	What was your first job? What did you like/dislike about it?
+66	What was your first record, tape or CD that you ever owned?
+67	What were words you couldn’t pronounce as a child, so you made up your own?
+68	What’s a funny (appropriate) pick-up line that works for you?
+69	What’s a nickname people actually call you?
+70	What’s a weird fact you happen to know?
+71	What’s something about you that people would be surprised to know?
+72	What’s the best knock-knock joke you know?
+73	What’s the best prank you’ve ever played on someone?
+74	What’s the craziest dare you ever took?
+75	What’s the craziest fashion trend you ever rocked?
+76	What’s the craziest thing on your bucket list?
+77	What’s the funniest animal you’ve ever owned as a pet?
+78	What’s the funniest thing that ever happened on your family vacation?
+79	What’s the grossest food you ever had to eat to be polite?
+80	What’s the most random thing in your purse/wallet?
+81	What’s the most ridiculous thing your parents ever did to embarrass you?
+82	What’s the story of your first crush?
+83	What’s the strangest family tradition in your family?
+84	What’s the worst haircut you ever had?
+85	What’s the worst job you’ve ever had?
+86	What’s the worst thing you ever did as a kid — and got away with?
+87	What’s your best idea for a reality TV show?
+88	What’s your favorite part of a county fair?
+89	What’s your funniest talent? Or un-talent?
+90	What’s your most embarrassing moment from your teen years?
+91	What’s your real favorite book, and what book do you pretend is your favorite to sound smart?
+92	What’s your silliest memory with your best friend?
+93	What’s your strangest talent?
+94	Which celebrity do you shamelessly follow in the news?
+95	Which celebrity would you pick to exchange lives with?
+96	Which Disney character’s story does your life most resemble?
+97	Who is your celebrity look-alike?
+98	Who is your craziest/most interesting relative?
+99	Who was the worst grade-school teacher you ever had?
+100	Who was your childhood actor/actress crush?
